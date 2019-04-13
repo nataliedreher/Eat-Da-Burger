@@ -1,0 +1,36 @@
+body {
+    background-color: burlywood;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: auto;
+
+}
+
+h1, p {
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-lg-2 {
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 3px;
+}
+
+.eat {
+    margin: 3px;
+}
